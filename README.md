@@ -37,3 +37,11 @@ matplotlib - to better visualize our results in the form of a pie chart as an ad
 - test the output 
 - view and save the pie chart visualizations 
 
+## Features 
+
+- computes percentage of positive tweets and negative tweets among the first 1000 tweets 
+- retrieves the top 10 positive as well as negative tweets 
+- generate pie chart visualization for better understanding the results 
+- refactorbale and new features can be incrementally added 
+- has inbuilt unicode formatting 
+
